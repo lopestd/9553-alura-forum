@@ -193,6 +193,8 @@
 	<build>
 		<sourceDirectory>src</sourceDirectory>
 	    <testSourceDirectory>test</testSourceDirectory>
+	    
+	    <finalname>alura-forum</finalname>
 		
 		<resources>
 			<resource>
